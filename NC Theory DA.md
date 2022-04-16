@@ -65,7 +65,7 @@ Some encryption algorithms include
 - ECC
 
 ##### RSA
-![[Pasted image 20220415162428.png|500]]
+![img|500](https://github.com/Rohitrout416/Network-Security/blob/main/Pasted%20image%2020220415162428.png)
 
 #### Problems Faced 
 1. **Timing attacks** - If the attacker Eve knows Alice's hardware in sufficient detail and is able to measure the decryption times for several known ciphertexts, Eve can deduce the decryption key _d_ quickly.
